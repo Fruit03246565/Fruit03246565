@@ -1,16 +1,16 @@
 # 🏅 Awards
 
-| 竞赛 | 奖项 |
+| Competition | Award |
 | --- | --- |
-| 全球校园人工智能算法精英大赛（算法赛道） | 国家级二等奖 |
-| 中国机器人及人工智能大赛 | 国家级二等奖 |
-| 泰迪杯数据挖掘挑战赛 | 国家级二等奖 |
-| 睿抗机器人开发者大赛 | 国家级三等奖 |
-| 中国大学生计算机设计大赛 | 国家级三等奖 |
-| 全国大学生数学竞赛（第十六、十七届） | 国家级三等奖 |
-| 百度之星 | 初赛银奖 |
-| 高教社杯数学建模 | 省级一等奖（两次） |
-| 蓝桥杯 | 省级一等奖 |
-| 全球校园人工智能算法精英大赛 | 省级一等奖 |
+| Global Campus AI Algorithm Elite Competition, Algorithm Track | National Second Prize |
+| China Robot and Artificial Intelligence Competition | National Second Prize |
+| Teddy Cup Data Mining Challenge | National Second Prize |
+| RoboCom Robot Developer Competition | National Third Prize |
+| Chinese Collegiate Computing Competition | National Third Prize |
+| National Undergraduate Mathematics Competition, 16th and 17th Editions | National Third Prize |
+| Baidu Star | Preliminary Round Silver Award |
+| Higher Education Press Cup Mathematical Contest in Modeling | Provincial First Prize, twice |
+| Lanqiao Cup | Provincial First Prize |
+| Global Campus AI Algorithm Elite Competition | Provincial First Prize |
 
-[返回主页](./README.md)
+[Back to profile](./README.md)
