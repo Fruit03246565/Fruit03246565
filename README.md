@@ -2,10 +2,10 @@
 
 ## Hi, I'm FruitZ 👋
 
-**Focused on AI full-stack development.**
+**Transitioning from AI Full-Stack Development to UAV Algorithms.**
 
 <code>🎓 Beihang University · Electronic Information · PhD Year 0</code><br/>
-<code>💻 AI Full-Stack Development</code>
+<code>💻 AI Full-Stack Development → UAV Algorithms</code>
 
 </div>
 
