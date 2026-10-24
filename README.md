@@ -2,7 +2,7 @@
 
 ## Hi, I'm FruitZ 👋
 
-**Transitioning from AI Full-Stack Development to UAV Algorithms.**
+**AI Full-Stack Development**
 
 <code>🎓 Beihang University · Electronic Information · PhD Student</code><br/>
 <code>🔬 Tianmushan Laboratory</code><br/>
