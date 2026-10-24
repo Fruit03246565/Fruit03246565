@@ -2,7 +2,7 @@
 
 ## Hi, I'm FruitZ 👋
 
-**AI Full-Stack Development**
+**AI Full-Stack Engineer**
 
 <code>🎓 Beihang University · Electronic Information · PhD Student</code><br/>
 <code>🔬 Tianmushan Laboratory</code><br/>
