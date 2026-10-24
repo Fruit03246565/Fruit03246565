@@ -16,12 +16,12 @@
 
 ### 💻 Project Practice
 
-**Aviation School Nebula · A Northeast Aviation School People Atlas**  
-A themed adaptation of the open-source [Poetry Cloud](https://shiyun.cohenjikan.com/) galaxy renderer, presenting people associated with the Northeast Aviation School, their stories, and supporting sources.
+**[Knowledge Nebula · AI Document Workspace](https://github.com/Fruit03246565/knowledge-nebula)**  
+An explorable document galaxy with PDF ingestion, passage retrieval, DeepSeek-powered answers, and source citations linked to original text.
 
-`Vue 3` `Three.js` `WebGL` `Vite`
+`React` `TypeScript` `Three.js` `Node.js` `DeepSeek` `RAG`
 
-Original project: [Cohenjikan/shiyun](https://github.com/Cohenjikan/shiyun) · Author: Cohenjikan
+Upload documents, ask questions, and inspect the evidence behind each answer.
 
 </td>
 <td valign="top" width="50%">
